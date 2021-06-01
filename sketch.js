@@ -15,8 +15,7 @@ function setup() {
 }
 
 function keyPressed()
-{
-  if(keyCode ==UP_ARROW)
+{if(keyCode ==UP_ARROW)
   {
     r_p.change_dir(-2);
   }
