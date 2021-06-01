@@ -26,12 +26,12 @@ function keyPressed()
     r_p.change_dir(2);
   }
   
-   if(keyCode ==65)
+   if(keyCode ==87)
   {
     l_p.change_dir(-2);
   }
   
-    if(keyCode ==90)
+    if(keyCode ==83)
   {
     l_p.change_dir(2);
   }
